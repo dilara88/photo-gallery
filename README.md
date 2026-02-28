@@ -37,9 +37,8 @@ The project moves through three distinct phases:
 
 🚀 How to View
 
-1. Clone the repository: git clone [repo-link]
-2. Install dependencies: npm install
-3. Run the project: npm run dev
+1. Clone the repository.
+2. Open photogallery.html in your browser.
 
 ---
 
