@@ -246,7 +246,7 @@ const photoData = [
     },
     {
         id: 50,
-        title: "Summertime sadness",
+        title: "Summertime Sadness",
         desc: "Where the desert meets the deep. A stark, beautiful dissonance that captures the bittersweet heart of a season that is always leaving us just as we learn to love it."
     },
     {
